@@ -10,14 +10,17 @@ class Solution {
         		left++;
         	} else if(!Character.isLetterOrDigit(s.charAt(right))) {
         		right--;
-        	} else {
-        		if (Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))) {
+        	} else if(Character.toLowerCase(s.charAt(left)) != Character.toLowerCase(s.charAt(right))){
         			return false;
-        		}
-        		left++;
+        	}else{
+                left++;
         		right--;
-        	}
+            }
         }
         return true;
     }
 }
+
+// Synced seamlessly with LeetHub Pro
+// Pro features: https://bit.ly/leethubpro | Free version: https://bit.ly/leethubv4
+// Get it here: https://chromewebstore.google.com/detail/bcilpkkbokcopmabingnndookdogmbna
