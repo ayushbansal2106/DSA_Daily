@@ -122,3 +122,19 @@ The folders are stored primarily by platform problem number and are not a perfec
 5. Re-solve the problem without copying the code, then use the stored solution for comparison.
 
 This is a living record of consistency over perfection: new daily solutions, alternate languages, and additional patterns will be added as the practice continues.
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1748-sum-of-unique-elements](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1748-sum-of-unique-elements/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1748-sum-of-unique-elements](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1748-sum-of-unique-elements/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1748-sum-of-unique-elements](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1748-sum-of-unique-elements/) | Easy |
+<!---LeetCode Topics End-->
