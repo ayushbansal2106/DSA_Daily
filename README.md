@@ -128,6 +128,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -137,4 +138,8 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1748-sum-of-unique-elements](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1748-sum-of-unique-elements/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1672-richest-customer-wealth](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1672-richest-customer-wealth/) | Easy |
 <!---LeetCode Topics End-->
