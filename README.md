@@ -130,6 +130,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1672-richest-customer-wealth/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1748-sum-of-unique-elements/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushbansal2106/DSA_Daily/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -146,4 +147,9 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1108-defanging-an-ip-address](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1108-defanging-an-ip-address/) | Easy |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushbansal2106/DSA_Daily/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+## Simulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushbansal2106/DSA_Daily/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 <!---LeetCode Topics End-->
