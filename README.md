@@ -142,4 +142,8 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1672-richest-customer-wealth](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1672-richest-customer-wealth/) | Easy |
+## String
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1108-defanging-an-ip-address](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1108-defanging-an-ip-address/) | Easy |
 <!---LeetCode Topics End-->
