@@ -159,4 +159,5 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0577-employee-bonus](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0577-employee-bonus/) | Easy |
 <!---LeetCode Topics End-->
