@@ -154,4 +154,8 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushbansal2106/DSA_Daily/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+## Database
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0175-combine-two-tables](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0175-combine-two-tables/) | Easy |
 <!---LeetCode Topics End-->
