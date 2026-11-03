@@ -163,6 +163,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0175-combine-two-tables/) | Easy |
 | [0181-employees-earning-more-than-their-managers](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
+| [0182-duplicate-emails](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0182-duplicate-emails/) | Easy |
 | [0577-employee-bonus](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0577-employee-bonus/) | Easy |
 | [1075-project-employees-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1075-project-employees-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1211-queries-quality-and-percentage/) | Easy |
