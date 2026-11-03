@@ -129,6 +129,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1089-duplicate-zeros](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1089-duplicate-zeros/) | Easy |
+| [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1572-matrix-diagonal-sum/) | Easy |
