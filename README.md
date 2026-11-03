@@ -128,6 +128,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1089-duplicate-zeros](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1089-duplicate-zeros/) | Easy |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
 | [1572-matrix-diagonal-sum](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [1672-richest-customer-wealth](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1672-richest-customer-wealth/) | Easy |
@@ -177,4 +178,8 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1482-minimum-number-of-days-to-make-m-bouquets](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1482-minimum-number-of-days-to-make-m-bouquets/) | Medium |
+## Two Pointers
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1089-duplicate-zeros](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1089-duplicate-zeros/) | Easy |
 <!---LeetCode Topics End-->
