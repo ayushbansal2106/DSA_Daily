@@ -140,6 +140,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0013-roman-to-integer/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -153,6 +154,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0013-roman-to-integer/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushbansal2106/DSA_Daily/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Simulation
@@ -189,4 +191,8 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1089-duplicate-zeros](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1089-duplicate-zeros/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0013-roman-to-integer](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0013-roman-to-integer/) | Easy |
 <!---LeetCode Topics End-->
