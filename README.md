@@ -177,15 +177,18 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0225-implement-stack-using-queues](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
