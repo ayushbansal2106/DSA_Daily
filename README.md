@@ -158,12 +158,14 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0013-roman-to-integer/) | Easy |
+| [0844-backspace-string-compare](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushbansal2106/DSA_Daily/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushbansal2106/DSA_Daily/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -182,6 +184,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | [0225-implement-stack-using-queues](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
+| [0844-backspace-string-compare](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 ## Design
 | Problem Name | Difficulty |
@@ -200,6 +203,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0844-backspace-string-compare](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0844-backspace-string-compare/) | Easy |
 | [1089-duplicate-zeros](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1089-duplicate-zeros/) | Easy |
 ## Math
 | Problem Name | Difficulty |
