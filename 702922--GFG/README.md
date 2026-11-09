@@ -1,0 +1,2 @@
+# [](https://www.geeksforgeeks.org/problems/array-of-alternate-ve-and-ve-nos1401/1)
+## 
