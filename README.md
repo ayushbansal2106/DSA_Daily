@@ -128,6 +128,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [1089-duplicate-zeros](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1089-duplicate-zeros/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
@@ -141,6 +142,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0013-roman-to-integer/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [1748-sum-of-unique-elements](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1748-sum-of-unique-elements/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
@@ -176,6 +178,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0232-implement-queue-using-stacks](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -196,4 +199,8 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0013-roman-to-integer/) | Easy |
+## Monotonic Stack
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
 <!---LeetCode Topics End-->
