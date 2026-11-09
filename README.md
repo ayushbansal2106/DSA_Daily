@@ -178,6 +178,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | [0596-classes-with-at-least-5-students](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0596-classes-with-at-least-5-students/) | Easy |
 | [1075-project-employees-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1075-project-employees-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1757-recyclable-and-low-fat-products](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
