@@ -179,6 +179,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | [0620-not-boring-movies](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0620-not-boring-movies/) | Easy |
 | [1075-project-employees-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1075-project-employees-i/) | Easy |
 | [1211-queries-quality-and-percentage](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1211-queries-quality-and-percentage/) | Easy |
+| [1251-average-selling-price](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1251-average-selling-price/) | Easy |
 | [1280-students-and-examinations](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1280-students-and-examinations/) | Easy |
 | [1661-average-time-of-process-per-machine](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1661-average-time-of-process-per-machine/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
