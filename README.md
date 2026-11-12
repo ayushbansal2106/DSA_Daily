@@ -188,6 +188,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
+| [0155-min-stack](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
@@ -196,6 +197,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0155-min-stack](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
 ## Queue
