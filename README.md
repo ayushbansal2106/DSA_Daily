@@ -128,6 +128,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1089-duplicate-zeros](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1089-duplicate-zeros/) | Easy |
@@ -186,6 +187,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
 | [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
@@ -214,6 +216,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0013-roman-to-integer](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0013-roman-to-integer/) | Easy |
+| [0150-evaluate-reverse-polish-notation](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 ## Monotonic Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
