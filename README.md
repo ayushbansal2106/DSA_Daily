@@ -163,6 +163,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1108-defanging-an-ip-address](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1108-defanging-an-ip-address/) | Easy |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/ayushbansal2106/DSA_Daily/tree/main/2011-final-value-of-variable-after-performing-operations/) | Easy |
+| [4106-find-mismatched-segments-between-two-strings](https://github.com/ayushbansal2106/DSA_Daily/tree/main/4106-find-mismatched-segments-between-two-strings/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
