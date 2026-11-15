@@ -7,17 +7,14 @@ class Solution {
 
 
         for(int i=0; i<arr.length; i++){
-            Boolean valChanged = false;
             if(arr[i]==x){
                 xIndex = i;
-                valChanged = true;
             }
             if(arr[i]==y){
                 yIndex = i;
-                valChanged = true;
             }
 
-            if(valChanged && xIndex!=-1 && yIndex!=-1){
+            if(xIndex!=-1 && yIndex!=-1){
                 minIndex = Math.min(Math.abs(xIndex-yIndex),minIndex);
             }
 
