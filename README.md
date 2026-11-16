@@ -128,6 +128,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0118-pascals-triangle](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0118-pascals-triangle/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
 | [0643-maximum-average-subarray-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0643-maximum-average-subarray-i/) | Easy |
@@ -234,4 +235,8 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0933-number-of-recent-calls/) | Easy |
+## Dynamic Programming
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0118-pascals-triangle](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0118-pascals-triangle/) | Easy |
 <!---LeetCode Topics End-->
