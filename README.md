@@ -131,6 +131,7 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | [0118-pascals-triangle](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0118-pascals-triangle/) | Easy |
 | [0150-evaluate-reverse-polish-notation](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0150-evaluate-reverse-polish-notation/) | Medium |
 | [0496-next-greater-element-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0496-next-greater-element-i/) | Easy |
+| [0622-design-circular-queue](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0622-design-circular-queue/) | Medium |
 | [0643-maximum-average-subarray-i](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0643-maximum-average-subarray-i/) | Easy |
 | [1089-duplicate-zeros](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1089-duplicate-zeros/) | Easy |
 | [1299-replace-elements-with-greatest-element-on-right-side](https://github.com/ayushbansal2106/DSA_Daily/tree/main/1299-replace-elements-with-greatest-element-on-right-side/) | Easy |
@@ -204,12 +205,14 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | [0155-min-stack](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0155-min-stack/) | Medium |
 | [0225-implement-stack-using-queues](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0225-implement-stack-using-queues](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0225-implement-stack-using-queues/) | Easy |
 | [0232-implement-queue-using-stacks](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0232-implement-queue-using-stacks/) | Easy |
+| [0622-design-circular-queue](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0622-design-circular-queue/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
@@ -245,4 +248,8 @@ This is a living record of consistency over perfection: new daily solutions, alt
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0394-decode-string](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0394-decode-string/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0622-design-circular-queue](https://github.com/ayushbansal2106/DSA_Daily/tree/main/0622-design-circular-queue/) | Medium |
 <!---LeetCode Topics End-->
